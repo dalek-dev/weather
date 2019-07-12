@@ -1,6 +1,9 @@
 # weather
 
-A new Flutter application.
+Weather application in progress:
+
+
+![test](./assets/weather_image.jpg)
 
 ## Getting Started
 
